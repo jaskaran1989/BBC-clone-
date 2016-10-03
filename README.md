@@ -1,4 +1,4 @@
-# BBC-clone-
+# JavaScript Reaction Tester
 Basic Reaction tester in Javascript
 
 This is a basic reaction tester developed using bsic html and javascript. Upon launch in web browser boxes and circle will start to appear
