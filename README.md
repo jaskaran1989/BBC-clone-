@@ -1,7 +1,7 @@
 # JavaScript Reaction Tester
 Basic Reaction tester in Javascript
 
- #How to run 
+ # How to run 
  -Download both Html and Javascript file
  - Make sure your javascript is in save folder as your html is
  -Open index.html file in browser and enjoy reaction timer
